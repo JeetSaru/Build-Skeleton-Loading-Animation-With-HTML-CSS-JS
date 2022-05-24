@@ -1,3 +1,6 @@
+/*Code was by CODING DESIGN 
+you can checkout YouTube Channel : https://www.youtube.com/c/CodingDesign2*/
+
 const loadings = document.querySelectorAll('.loading');
 const card_imgs = document.querySelectorAll('.card figure img');
 const card_desp = document.querySelector(".card-description");
